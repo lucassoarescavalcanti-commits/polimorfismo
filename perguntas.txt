@@ -1,0 +1,12 @@
+Pergunta:
+Explique como a sobrescrita de métodos permite comportamentos diferentes para objetos da mesma hierarquia.
+
+R:A sobrescrita permite que diferentes classes derivadas adaptem um método herdado às suas próprias características, promovendo flexibilidade e polimorfismo no código.
+
+
+Pergunta:
+Descreva o mecanismo de sobrecarga de métodos e como ele difere da sobrescrita em termos de polimorfismo.
+
+R:A sobrecarga permite usar o mesmo nome de método para diferentes combinações de parâmetros, enquanto a sobrescrita permite que classes diferentes implementem comportamentos específicos para um método herdado. Ambas promovem flexibilidade e reutilização de código na programação orientada a objetos.
+
+
